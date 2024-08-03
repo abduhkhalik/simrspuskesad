@@ -37,7 +37,7 @@ function DashboardRs() {
     baseURL: apiUrl,
   });
 
-  useEffect(() => {https://siman.rumkitputrihijau.com/https://siman.rumkitputrihijau.com/https://siman.rumkitputrihijau.com/
+  useEffect(() => {
     const fetchData = async () => {
       try {
         setIsLoading(true);

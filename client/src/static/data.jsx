@@ -16,7 +16,7 @@ export const dataModules = [
   {
     title: "Rumkit Tk.IV Lhokseumawe",
     img: "https://i.imgur.com/ZKfV8DG.jpeg",
-    link: "#",
+    link: import.meta.env.VITE_LHOKSEUMAWE,
     satuan: "Kesdam IM",
   },
   {
@@ -40,7 +40,7 @@ export const dataModules = [
   {
     title: "Rumkit Tk.IV Pematang Siantar",
     img: "https://i.imgur.com/mjYNQPz.jpeg",
-    link: "#",
+    link: import.meta.env.VITE_PEMATANGSIANTAR,
     satuan: "Kesdam I/BB",
   },
   {
@@ -76,7 +76,7 @@ export const dataModules = [
   {
     title: "Rumkit Tk.II dr. A K Gani, Palembang",
     img: "",
-    link: "#",
+    link: import.meta.env.VITE_AKGANI,
     satuan: "Kesdam II/SWJ",
   },
   {
@@ -184,7 +184,7 @@ export const dataModules = [
   {
     title: "Rumkit Tk.IV Tegal",
     img: "",
-    link: "#",
+    link: import.meta.env.VITE_RUMKITTEGAL,
     satuan: "Kesdam IV/Dip",
   },
   {
@@ -256,7 +256,7 @@ export const dataModules = [
   {
     title: "Rumkitban Surabaya",
     img: "",
-    link: "#",
+    link: import.meta.env.VITE_BANSURABAYA,
     satuan: "Kesdam V/Brw",
   },
   {
@@ -334,19 +334,13 @@ export const dataModules = [
   {
     title: "Rumkit Tk.IV Singkawang",
     img: "",
-    link: "#",
+    link: import.meta.env.VITE_SINGKAWANG,
     satuan: "Kesdam XII/Tpr",
   },
   {
     title: "Rumkit Tk.IV Sintang",
     img: "",
     link: import.meta.env.VITE_SINTANG,
-    satuan: "Kesdam XII/Tpr",
-  },
-  {
-    title: "Rumkit Tk.IV Palangkaraya",
-    img: "",
-    link: "#",
     satuan: "Kesdam XII/Tpr",
   },
   {
@@ -395,6 +389,12 @@ export const dataModules = [
     title: "Rumkit Tk.II Moh Ridwan Meuraksa",
     img: "https://i.imgur.com/mqMsJ6p.jpeg",
     link: import.meta.env.VITE_RSRIDWAN,
+    satuan: "Kesdam Jaya",
+  },
+  {
+    title: "Rumkit Tk.IV Daan Mogot Tangerang",
+    img: "",
+    link: import.meta.env.VITE_MOGOT,
     satuan: "Kesdam Jaya",
   },
 ];
