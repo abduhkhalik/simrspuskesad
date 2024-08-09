@@ -249,7 +249,7 @@ export const dataModules = [
   },
   {
     title: "Rumkitban Sidoarjo",
-    img: "",
+    img: "https://i.imgur.com/wgYuccc.jpeg",
     link: "#",
     satuan: "Kesdam V/Brw",
   },
