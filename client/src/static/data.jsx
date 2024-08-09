@@ -75,7 +75,7 @@ export const dataModules = [
   },
   {
     title: "Rumkit Tk.II dr. A K Gani, Palembang",
-    img: "",
+    img: "https://i.imgur.com/RtIxyYC.jpeg",
     link: import.meta.env.VITE_AKGANI,
     satuan: "Kesdam II/SWJ",
   },
@@ -105,13 +105,13 @@ export const dataModules = [
   },
   {
     title: "Rumkit Tk. IV/Bandar Lampung",
-    img: "",
+    img: "https://i.imgur.com/d6bdcDo.jpeg",
     link: "#",
     satuan: "Kesdam II/SWJ",
   },
   {
     title: "Rumkit Tk.IV Batin Tikal Pangkal Pinang",
-    img: "",
+    img: "https://i.imgur.com/vtzQNLG.jpeg",
     link: "#",
     satuan: "Kesdam II/SWJ",
   },
@@ -141,7 +141,7 @@ export const dataModules = [
   },
   {
     title: "Rumkit Tk.IV Sariningsih, Bandung",
-    img: "",
+    img: "https://i.imgur.com/9mLYGxb.jpeg",
     link: import.meta.env.VITE_SARININGSIH,
     satuan: "Kesdam III/Slw",
   },
@@ -165,7 +165,7 @@ export const dataModules = [
   },
   {
     title: "Rumkit Tk.III Bhakti Wira Tamtama, Semarang",
-    img: "",
+    img: "https://i.imgur.com/BuJgtYQ.jpeg",
     link: "#",
     satuan: "Kesdam IV/Dip",
   },
@@ -183,7 +183,7 @@ export const dataModules = [
   },
   {
     title: "Rumkit Tk.IV Tegal",
-    img: "",
+    img: "https://i.imgur.com/bGRQ6As.jpeg",
     link: import.meta.env.VITE_RUMKITTEGAL,
     satuan: "Kesdam IV/Dip",
   },
@@ -201,7 +201,7 @@ export const dataModules = [
   },
   {
     title: "Rumkitban Blora",
-    img: "",
+    img: "https://i.imgur.com/bMKYBlB.jpeg",
     link: "#",
     satuan: "Kesdam IV/Dip",
   },
@@ -214,7 +214,7 @@ export const dataModules = [
   {
     title: "Rumkit Tk.III Brawijaya, Surabaya",
     img: "https://i.imgur.com/KVfzBXk.jpeg",
-    link: "#",
+    link: import.meta.env.VITE_BRAWIJAYA,
     satuan: "Kesdam V/Brw",
   },
   {
@@ -255,7 +255,7 @@ export const dataModules = [
   },
   {
     title: "Rumkitban Surabaya",
-    img: "",
+    img: "https://i.imgur.com/KGMF8HT.jpeg",
     link: import.meta.env.VITE_BANSURABAYA,
     satuan: "Kesdam V/Brw",
   },
@@ -279,7 +279,7 @@ export const dataModules = [
   },
   {
     title: "Rumkit Tk.IV awang long Samarinda",
-    img: "",
+    img: "https://i.imgur.com/WhZ9xpz.jpeg",
     link: "#",
     satuan: "Kesdam VI/Mlw",
   },
@@ -333,7 +333,7 @@ export const dataModules = [
   },
   {
     title: "Rumkit Tk.IV Singkawang",
-    img: "",
+    img: "https://i.imgur.com/ai4xv1T.jpeg",
     link: import.meta.env.VITE_SINGKAWANG,
     satuan: "Kesdam XII/Tpr",
   },
@@ -380,6 +380,18 @@ export const dataModules = [
     satuan: "Kesdam XIV/Hsn",
   },
   {
+    title: "Rumkit Tk.IV dr. Soemantri Pare-Pare",
+    img: "https://i.imgur.com/6yrm7pO.jpeg",
+    link: "",
+    satuan: "Kesdam XIV/Hsn",
+  },
+  {
+    title: "Rumkit Tk.IV dr. R. Ismoyo Kendari",
+    img: "",
+    link: "",
+    satuan: "Kesdam XIV/Hsn",
+  },
+  {
     title: "Rumkit Tk.II Ambon",
     img: "https://i.imgur.com/jZIopBE.jpeg",
     link: import.meta.env.VITE_LATUMETEN,
@@ -396,5 +408,17 @@ export const dataModules = [
     img: "",
     link: import.meta.env.VITE_MOGOT,
     satuan: "Kesdam Jaya",
+  },
+  {
+    title: "Rumkit Tk.IV Cijantung",
+    img: "",
+    link: "",
+    satuan: "Kesdam Jaya",
+  },
+  {
+    title: "Rumkit Tk.II Marthen Indey Jayapura",
+    img: "",
+    link: import.meta.env.VITE_MARTHEN,
+    satuan: "Kesdam XVII/Cen",
   },
 ];
