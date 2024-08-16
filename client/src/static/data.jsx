@@ -34,7 +34,7 @@ export const dataModules = [
   {
     title: "Rumkit Tk.III dr. Reksodiwiryo, Padang",
     img: "https://i.imgur.com/p5cP9fs.jpeg",
-    link: "#",
+    link: import.meta.env.VITE_REKSO,
     satuan: "Kesdam I/BB",
   },
   {
@@ -166,7 +166,7 @@ export const dataModules = [
   {
     title: "Rumkit Tk.III Bhakti Wira Tamtama, Semarang",
     img: "https://i.imgur.com/BuJgtYQ.jpeg",
-    link: "#",
+    link: import.meta.env.VITE_BHAKTI_WIRA,
     satuan: "Kesdam IV/Dip",
   },
   {
@@ -292,7 +292,7 @@ export const dataModules = [
   {
     title: "Rumkit Tk.II Udayana, Denpasar",
     img: "https://i.imgur.com/rnH9JYc.jpeg",
-    link: "#",
+    link: import.meta.env.VITE_UDAYANA,
     satuan: "Kesdam IX/Udy",
   },
   {
