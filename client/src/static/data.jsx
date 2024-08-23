@@ -250,7 +250,7 @@ export const dataModules = [
   {
     title: "Rumkitban Sidoarjo",
     img: "https://i.imgur.com/wgYuccc.jpeg",
-    link: "#",
+    link: import.meta.env.VITE_BANSIODOARJO,
     satuan: "Kesdam V/Brw",
   },
   {
@@ -268,7 +268,7 @@ export const dataModules = [
   {
     title: "Rumkit Tk.III dr. Soeharsono Banjarmasin",
     img: "https://i.imgur.com/H7XFliU.jpeg",
-    link: "#",
+    link: import.meta.env.VITE_SOEHARSONO,
     satuan: "Kesdam VI/Mlw",
   },
   {
