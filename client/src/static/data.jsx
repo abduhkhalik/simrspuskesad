@@ -250,7 +250,7 @@ export const dataModules = [
   {
     title: "Rumkitban Sidoarjo",
     img: "https://i.imgur.com/wgYuccc.jpeg",
-    link: import.meta.env.VITE_BANSIODOARJO,
+    link: import.meta.env.VITE_BANSIDOARJO,
     satuan: "Kesdam V/Brw",
   },
   {
