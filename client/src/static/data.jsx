@@ -106,7 +106,7 @@ export const dataModules = [
   {
     title: "Rumkit Tk. IV/Bandar Lampung",
     img: "https://i.imgur.com/d6bdcDo.jpeg",
-    link: "#",
+    link: import.meta.env.VITE_LAMPUNGIV,
     satuan: "Kesdam II/SWJ",
   },
   {
@@ -154,7 +154,7 @@ export const dataModules = [
   {
     title: "Rumkit Tk. II dr. Soedjono, Magelang",
     img: "https://i.imgur.com/JX9Sg6i.jpeg",
-    link: "#",
+    link: import.meta.env.VITE_SOEJONO,
     satuan: "Kesdam IV/Dip",
   },
   {
